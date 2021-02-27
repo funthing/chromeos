@@ -11,7 +11,7 @@
 #
 
 #where the stuff is
-script_url="https://raw.githubusercontent.com/funthing/chromeos/main"
+script_url="https://raw.githubusercontent.com/funthing/chromeos/main/"
 export http_proxy=10.0.10.21:3666
 export https_proxy=10.0.10.21:3666
 #set working dir
